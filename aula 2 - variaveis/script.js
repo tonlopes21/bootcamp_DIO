@@ -2,8 +2,8 @@
 
 // //boolean
 
-// var vOuf = false;
-// console.log(typeof(vOuf))
+var vOuf = false;
+console.log(typeof(vOuf))
 
 // //number
 // var numeroQualquer = 1;
